@@ -8,7 +8,6 @@ class Flat extends React.Component {
 
     const style = {
       backgroundImage: `url('${this.props.flat.imageUrl}')`
-
     };
 
 
