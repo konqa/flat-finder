@@ -1,28 +1,36 @@
+
 .App {
-  text-align: center;
+  display: flex;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+.flats {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
 }
 
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
+.main {
+  display: flex;
+  flex-basis: 60%;
+  flex-direction: column;
 }
 
-.App-title {
-  font-size: 1.5em;
+.search {
+  padding: 10px;
+  margin-right: 5px;
 }
 
-.App-intro {
-  font-size: large;
+.search input {
+  color: #999;
+  font-size: 24px;
+  height: 40px;
+  padding-left: 5px;
+  width: 100%;
 }
 
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.map{
+  flex-grow: 1;
+  height: 100vh;
+  top: 0;
+  position: sticky;
 }
