@@ -7,3 +7,8 @@
   text-align: center;
   width: 48px;
 }
+
+.marker.selected {
+  background-color: yellow;
+  border: black;
+}
