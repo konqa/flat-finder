@@ -14,7 +14,7 @@ class App extends Component {
   }
 
   componentDidMount() {
-    let url = "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/flats.json";
+    let url = "https://raw.githubusercontent.com/konqa/flats-boilerplate/master/flats.json";
     fetch(url) // AJAX
     .then(response => response.json())
     .then((data) => {
