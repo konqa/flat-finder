@@ -8,12 +8,12 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      flats: []
+      flats: [],
+      selectedFlat: null
     };
   }
 
   componentDidMount() {
-    console.log("Did mount");
     let url = "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/flats.json";
     fetch(url) // AJAX
     .then(response => response.json())
@@ -25,6 +25,12 @@ class App extends Component {
   }
 
 
+  selectFlat = (flat) => {
+    console.log('iyi', flat);
+    this.setState({    
+      selectedFlat: flat
+    })
+  }
 
   render() {
 
@@ -41,7 +47,12 @@ class App extends Component {
 
           <div className="flats">
             {this.state.flats.map((flat) => {
-              return <Flat key={flat.id} flat={flat} className="flat" />
+              return <Flat 
+              key={flat.id} 
+              flat={flat} 
+              selectFlat={
+                this.selectFlat
+              } />
             })}
           </div>
 
