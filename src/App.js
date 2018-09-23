@@ -9,7 +9,8 @@ class App extends Component {
     super(props);
     this.state = {
       flats: [],
-      selectedFlat: null
+      selectedFlat: null,
+      search: ''
     };
   }
 
@@ -25,9 +26,16 @@ class App extends Component {
   }
 
   selectFlat = (flat) => {
-    console.log(flat);
     this.setState({    
       selectedFlat: flat
+    })
+  }
+
+  handleSearch = (event) => {
+    // console.log(event.target.value);
+    this.setState({
+      search: event.target.value,
+      flats: this.state.flats.filter((flat) => new RegExp(event.target.value, "i").exec(flat))
     })
   }
 
