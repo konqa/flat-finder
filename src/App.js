@@ -16,7 +16,7 @@ class App extends Component {
   }
 
   componentDidMount() {
-    let url = "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/flats.json";
+    let url = "https://raw.githubusercontent.com/konqa/flats-boilerplate/master/flats.json";
     fetch(url) // AJAX
     .then(response => response.json())
     .then((data) => {
@@ -44,8 +44,8 @@ class App extends Component {
   render() {
 
     let center = {
-      lat: 48.8566,
-      lng: 2.3522
+      lat: -46.410744,
+      lng: 168.3715803
     }
 
     if(this.state.selectedFlat){
@@ -85,7 +85,7 @@ class App extends Component {
             <GoogleMapReact
             // bootstrapURLKeys={{ key: /* YOUR KEY HERE */ }}
             center={center}
-            zoom={13}
+            zoom={14}
             >
             {this.state.flats.map((flat) => {
               return <Marker 
