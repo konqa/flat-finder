@@ -23,7 +23,9 @@
 .search input {
   color: #999;
   font-size: 24px;
+  font-weight: 400;
   height: 40px;
+  line-height: 24px;
   padding-left: 5px;
   width: 100%;
 }

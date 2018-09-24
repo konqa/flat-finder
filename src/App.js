@@ -44,8 +44,8 @@ class App extends Component {
   render() {
 
     let center = {
-      lat: 48.8566,
-      lng: 2.3522
+      lat: -46.410744,
+      lng: 168.3715803
     }
 
     if(this.state.selectedFlat){
@@ -85,13 +85,14 @@ class App extends Component {
             <GoogleMapReact
             // bootstrapURLKeys={{ key: /* YOUR KEY HERE */ }}
             center={center}
-            zoom={11}
+            zoom={14}
             >
             {this.state.flats.map((flat) => {
               return <Marker 
               key={flat.id} 
               lat={flat.lat} 
               lng={flat.lng} 
+              rating={flat.rating} 
               text={flat.price}
               selected={flat === this.state.selectedFlat}
               />
