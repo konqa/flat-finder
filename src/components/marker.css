@@ -14,5 +14,5 @@
 }
 
 .marker:before {
-  content: '\00024';
+  /* content: '\00024'; */
 }

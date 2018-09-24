@@ -92,6 +92,7 @@ class App extends Component {
               key={flat.id} 
               lat={flat.lat} 
               lng={flat.lng} 
+              rating={flat.rating} 
               text={flat.price}
               selected={flat === this.state.selectedFlat}
               />
