@@ -85,7 +85,7 @@ class App extends Component {
             <GoogleMapReact
             // bootstrapURLKeys={{ key: /* YOUR KEY HERE */ }}
             center={center}
-            zoom={11}
+            zoom={13}
             >
             {this.state.flats.map((flat) => {
               return <Marker 
