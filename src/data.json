@@ -1,0 +1,1117 @@
+[
+	{
+		"country_code": "af",
+		"country_name": "Afghanistan",
+		"head_last_name": "Ghani"
+	},
+	{
+		"country_code": "al",
+		"country_name": "Albania",
+		"head_last_name": "Rama"
+	},
+	{
+		"country_code": "dz",
+		"country_name": "Algeria",
+		"head_last_name": "Bouteflika"
+	},
+	{
+		"country_code": "us",
+		"country_name": "American Samoa",
+		"head_last_name": ""
+	},
+	{
+		"country_code": "ad",
+		"country_name": "Andorra",
+		"head_last_name": "Martí"
+	},
+	{
+		"country_code": "ao",
+		"country_name": "Angola",
+		"head_last_name": "Lourenço"
+	},
+	{
+		"country_code": "ai",
+		"country_name": "Anguilla",
+		"head_last_name": "Foy"
+	},
+	{
+		"country_code": "ag",
+		"country_name": "Antigua and Barbuda",
+		"head_last_name": "Browne"
+	},
+	{
+		"country_code": "ar",
+		"country_name": "Argentina",
+		"head_last_name": "Macri"
+	},
+	{
+		"country_code": "am",
+		"country_name": "Armenia",
+		"head_last_name": "Pashinyan"
+	},
+	{
+		"country_code": "az",
+		"country_name": "Artsakh",
+		"head_last_name": "Sahakyan"
+	},
+	{
+		"country_code": "aw",
+		"country_name": "Aruba",
+		"head_last_name": ""
+	},
+	{
+		"country_code": "au",
+		"country_name": "Australia",
+		"head_last_name": "Morrison"
+	},
+	{
+		"country_code": "ai",
+		"country_name": "Austria",
+		"head_last_name": "Kurz"
+	},
+	{
+		"country_code": "az",
+		"country_name": "Azerbaijan",
+		"head_last_name": "Aliyev"
+	},
+	{
+		"country_code": "bh",
+		"country_name": "Bahrain",
+		"head_last_name": "Khalifa"
+	},
+	{
+		"country_code": "bd",
+		"country_name": "Bangladesh",
+		"head_last_name": "Hasina"
+	},
+	{
+		"country_code": "bb",
+		"country_name": "Barbados",
+		"head_last_name": "Mottley"
+	},
+	{
+		"country_code": "by",
+		"country_name": "Belarus",
+		"head_last_name": "Lukashenko"
+	},
+	{
+		"country_code": "be",
+		"country_name": "Belgium",
+		"head_last_name": "Michel"
+	},
+	{
+		"country_code": "bz",
+		"country_name": "Belize",
+		"head_last_name": "Barrow"
+	},
+	{
+		"country_code": "bj",
+		"country_name": "Benin",
+		"head_last_name": "Talon"
+	},
+	{
+		"country_code": "bm",
+		"country_name": "Bermuda",
+		"head_last_name": "Rankin"
+	},
+	{
+		"country_code": "bt",
+		"country_name": "Bhutan",
+		"head_last_name": "Tshering"
+	},
+	{
+		"country_code": "bo",
+		"country_name": "Bolivia",
+		"head_last_name": "Morales"
+	},
+	{
+		"country_code": "ba",
+		"country_name": "Bosnia and Herzegovina",
+		"head_last_name": "Inzko"
+	},
+	{
+		"country_code": "bw",
+		"country_name": "Botswana",
+		"head_last_name": "Masisi"
+	},
+	{
+		"country_code": "br",
+		"country_name": "Brazil",
+		"head_last_name": "Temer"
+	},
+	{
+		"country_code": "uk",
+		"country_name": "British Indian Ocean Territory",
+		"head_last_name": ""
+	},
+	{
+		"country_code": "vg",
+		"country_name": "British Virgin Islands",
+		"head_last_name": "Jaspert"
+	},
+	{
+		"country_code": "bn",
+		"country_name": "Brunei",
+		"head_last_name": "Bolkiah"
+	},
+	{
+		"country_code": "bg",
+		"country_name": "Bulgaria",
+		"head_last_name": "Borisov"
+	},
+	{
+		"country_code": "bf",
+		"country_name": "Burkina Faso",
+		"head_last_name": "Kaboré"
+	},
+	{
+		"country_code": "bi",
+		"country_name": "Burundi",
+		"head_last_name": "Nkurunziza"
+	},
+	{
+		"country_code": "kh",
+		"country_name": "Cambodia",
+		"head_last_name": "Sen"
+	},
+	{
+		"country_code": "cm",
+		"country_name": "Cameroon",
+		"head_last_name": "Biya"
+	},
+	{
+		"country_code": "ca",
+		"country_name": "Canada",
+		"head_last_name": "Trudeau"
+	},
+	{
+		"country_code": "cv",
+		"country_name": "Cape Verde",
+		"head_last_name": "Fonseca"
+	},
+	{
+		"country_code": "ky",
+		"country_name": "Cayman Islands",
+		"head_last_name": ""
+	},
+	{
+		"country_code": "cf",
+		"country_name": "Central African Republic",
+		"head_last_name": "Touadéra"
+	},
+	{
+		"country_code": "id",
+		"country_name": "Chad",
+		"head_last_name": "Déby"
+	},
+	{
+		"country_code": "cl",
+		"country_name": "Chile",
+		"head_last_name": "Piñera"
+	},
+	{
+		"country_code": "cn",
+		"country_name": "China",
+		"head_last_name": "Jinping"
+	},
+	{
+		"country_code": "co",
+		"country_name": "Colombia",
+		"head_last_name": "Duque"
+	},
+	{
+		"country_code": "km",
+		"country_name": "Comoros",
+		"head_last_name": "Assoumani"
+	},
+	{
+		"country_code": "ck",
+		"country_name": "Cook Islands",
+		"head_last_name": "Puna"
+	},
+	{
+		"country_code": "cr",
+		"country_name": "Costa Rica",
+		"head_last_name": "Quesada"
+	},
+	{
+		"country_code": "ci",
+		"country_name": "Côte d'Ivoire",
+		"head_last_name": "Ouattara"
+	},
+	{
+		"country_code": "hr",
+		"country_name": "Croatia",
+		"head_last_name": "Plenković"
+	},
+	{
+		"country_code": "cu",
+		"country_name": "Cuba",
+		"head_last_name": "Castro"
+	},
+	{
+		"country_code": "cy",
+		"country_name": "Cyprus",
+		"head_last_name": "Anastasiades"
+	},
+	{
+		"country_code": "cz",
+		"country_name": "Czech Republic",
+		"head_last_name": "Babiš"
+	},
+	{
+		"country_code": "cd",
+		"country_name": "Democratic Republic of Congo",
+		"head_last_name": "Tshisekedi"
+	},
+	{
+		"country_code": "dk",
+		"country_name": "Denmark",
+		"head_last_name": "Rasmussen"
+	},
+	{
+		"country_code": "dj",
+		"country_name": "Djibouti",
+		"head_last_name": "Guelleh"
+	},
+	{
+		"country_code": "dm",
+		"country_name": "Dominica",
+		"head_last_name": "Skerrit"
+	},
+	{
+		"country_code": "do",
+		"country_name": "Dominican Republic",
+		"head_last_name": "Medina"
+	},
+	{
+		"country_code": "ec",
+		"country_name": "Ecuador",
+		"head_last_name": "Moreno"
+	},
+	{
+		"country_code": "eg",
+		"country_name": "Egypt",
+		"head_last_name": "el-Sisi"
+	},
+	{
+		"country_code": "sv",
+		"country_name": "El Salvador",
+		"head_last_name": "Cerén"
+	},
+	{
+		"country_code": "gq",
+		"country_name": "Equatorial Guinea",
+		"head_last_name": "Mbasogo"
+	},
+	{
+		"country_code": "er",
+		"country_name": "Eritrea",
+		"head_last_name": "Afwerki"
+	},
+	{
+		"country_code": "ee",
+		"country_name": "Estonia",
+		"head_last_name": "Ratas"
+	},
+	{
+		"country_code": "sz",
+		"country_name": "Eswatini",
+		"head_last_name": "Mswati"
+	},
+	{
+		"country_code": "et",
+		"country_name": "Ethiopia",
+		"head_last_name": "Ahmed"
+	},
+	{
+		"country_code": "fm",
+		"country_name": "Federated States of Micronesia",
+		"head_last_name": "Christian"
+	},
+	{
+		"country_code": "fj",
+		"country_name": "Fiji",
+		"head_last_name": "Bainimarama"
+	},
+	{
+		"country_code": "fi",
+		"country_name": "Finland",
+		"head_last_name": "Sipilä"
+	},
+	{
+		"country_code": "fr",
+		"country_name": "France",
+		"head_last_name": "Macron"
+	},
+	{
+		"country_code": "gf",
+		"country_name": "French Guiana",
+		"head_last_name": ""
+	},
+	{
+		"country_code": "pf",
+		"country_name": "French Polynesia",
+		"head_last_name": ""
+	},
+	{
+		"country_code": "ga",
+		"country_name": "Gabon",
+		"head_last_name": "Ondimba"
+	},
+	{
+		"country_code": "ge",
+		"country_name": "Georgia",
+		"head_last_name": "Margvelashvili"
+	},
+	{
+		"country_code": "de",
+		"country_name": "Germany",
+		"head_last_name": "Merkel"
+	},
+	{
+		"country_code": "gh",
+		"country_name": "Ghana",
+		"head_last_name": "Akufo-Addo"
+	},
+	{
+		"country_code": "gr",
+		"country_name": "Greece",
+		"head_last_name": "Tsipras"
+	},
+	{
+		"country_code": "gl",
+		"country_name": "Greenland",
+		"head_last_name": "Margrethe"
+	},
+	{
+		"country_code": "gd",
+		"country_name": "Grenada",
+		"head_last_name": "Mitchell"
+	},
+	{
+		"country_code": "gt",
+		"country_name": "Guatemala",
+		"head_last_name": "Morales"
+	},
+	{
+		"country_code": "gn",
+		"country_name": "Guinea",
+		"head_last_name": "Condé"
+	},
+	{
+		"country_code": "gw",
+		"country_name": "Guinea-Bissau",
+		"head_last_name": "Vaz"
+	},
+	{
+		"country_code": "gy",
+		"country_name": "Guyana",
+		"head_last_name": "Granger"
+	},
+	{
+		"country_code": "ht",
+		"country_name": "Haiti",
+		"head_last_name": "Moïse"
+	},
+	{
+		"country_code": "hn",
+		"country_name": "Honduras",
+		"head_last_name": "Hernández"
+	},
+	{
+		"country_code": "hk",
+		"country_name": "Hong Kong",
+		"head_last_name": "Lam"
+	},
+	{
+		"country_code": "hu",
+		"country_name": "Hungary",
+		"head_last_name": "Orbán"
+	},
+	{
+		"country_code": "is",
+		"country_name": "Iceland",
+		"head_last_name": "Jakobsdóttir"
+	},
+	{
+		"country_code": "in",
+		"country_name": "India",
+		"head_last_name": "Modi"
+	},
+	{
+		"country_code": "id",
+		"country_name": "Indonesia",
+		"head_last_name": "Widodo"
+	},
+	{
+		"country_code": "ir",
+		"country_name": "Iran",
+		"head_last_name": "Khamenei"
+	},
+	{
+		"country_code": "iq",
+		"country_name": "Iraq",
+		"head_last_name": "Abdul-Mahdi"
+	},
+	{
+		"country_code": "ie",
+		"country_name": "Ireland",
+		"head_last_name": "Varadkar"
+	},
+	{
+		"country_code": "il",
+		"country_name": "Israel",
+		"head_last_name": "Netanyahu"
+	},
+	{
+		"country_code": "it",
+		"country_name": "Italy",
+		"head_last_name": "Conte"
+	},
+	{
+		"country_code": "jm",
+		"country_name": "Jamaica",
+		"head_last_name": "Holness"
+	},
+	{
+		"country_code": "jp",
+		"country_name": "Japan",
+		"head_last_name": "Abe"
+	},
+	{
+		"country_code": "jo",
+		"country_name": "Jordan",
+		"head_last_name": "Abdullah"
+	},
+	{
+		"country_code": "kz",
+		"country_name": "Kazakhstan",
+		"head_last_name": "Nazarbayev"
+	},
+	{
+		"country_code": "ke",
+		"country_name": "Kenya",
+		"head_last_name": "Kenyatta"
+	},
+	{
+		"country_code": "ki",
+		"country_name": "Kiribati",
+		"head_last_name": "Mamau"
+	},
+	{
+		"country_code": "xk",
+		"country_name": "Kosovo",
+		"head_last_name": "Haradinaj"
+	},
+	{
+		"country_code": "kw",
+		"country_name": "Kuwait",
+		"head_last_name": "Al-Sabah"
+	},
+	{
+		"country_code": "kg",
+		"country_name": "Kyrgyzstan",
+		"head_last_name": "Abylgaziev"
+	},
+	{
+		"country_code": "la",
+		"country_name": "Laos",
+		"head_last_name": "Vorachith"
+	},
+	{
+		"country_code": "lv",
+		"country_name": "Latvia",
+		"head_last_name": "Kučinskis"
+	},
+	{
+		"country_code": "lb",
+		"country_name": "Lebanon",
+		"head_last_name": "Hariri"
+	},
+	{
+		"country_code": "ls",
+		"country_name": "Lesotho",
+		"head_last_name": "Thabane"
+	},
+	{
+		"country_code": "lr",
+		"country_name": "Liberia",
+		"head_last_name": "Weah"
+	},
+	{
+		"country_code": "ly",
+		"country_name": "Libya",
+		"head_last_name": "al-Sarraj"
+	},
+	{
+		"country_code": "li",
+		"country_name": "Liechtenstein",
+		"head_last_name": "Alois"
+	},
+	{
+		"country_code": "lt",
+		"country_name": "Lithuania",
+		"head_last_name": "Grybauskaitė"
+	},
+	{
+		"country_code": "lu",
+		"country_name": "Luxembourg",
+		"head_last_name": "Bettel"
+	},
+	{
+		"country_code": "mk",
+		"country_name": "Macedonia",
+		"head_last_name": "Zaev"
+	},
+	{
+		"country_code": "mg",
+		"country_name": "Madagascar",
+		"head_last_name": "Rajoelina"
+	},
+	{
+		"country_code": "mw",
+		"country_name": "Malawi",
+		"head_last_name": "Mutharika"
+	},
+	{
+		"country_code": "my",
+		"country_name": "Malaysia",
+		"head_last_name": "Mohamad"
+	},
+	{
+		"country_code": "mv",
+		"country_name": "Maldives",
+		"head_last_name": "Solih"
+	},
+	{
+		"country_code": "ml",
+		"country_name": "Mali",
+		"head_last_name": "Keïta"
+	},
+	{
+		"country_code": "mt",
+		"country_name": "Malta",
+		"head_last_name": "Muscat"
+	},
+	{
+		"country_code": "mh",
+		"country_name": "Marshall Islands",
+		"head_last_name": "Heine"
+	},
+	{
+		"country_code": "mr",
+		"country_name": "Mauritania",
+		"head_last_name": "Aziz"
+	},
+	{
+		"country_code": "mu",
+		"country_name": "Mauritius",
+		"head_last_name": "Jugnauth"
+	},
+	{
+		"country_code": "mx",
+		"country_name": "Mexico",
+		"head_last_name": "Obrador"
+	},
+	{
+		"country_code": "md",
+		"country_name": "Moldova",
+		"head_last_name": "Filip"
+	},
+	{
+		"country_code": "mc",
+		"country_name": "Monaco",
+		"head_last_name": "Albert"
+	},
+	{
+		"country_code": "mn",
+		"country_name": "Mongolia",
+		"head_last_name": "Battulga"
+	},
+	{
+		"country_code": "me",
+		"country_name": "Montenegro",
+		"head_last_name": "Marković"
+	},
+	{
+		"country_code": "ma",
+		"country_name": "Morocco",
+		"head_last_name": "Mohammed"
+	},
+	{
+		"country_code": "mz",
+		"country_name": "Mozambique",
+		"head_last_name": "Nyusi"
+	},
+	{
+		"country_code": "mm",
+		"country_name": "Myanmar",
+		"head_last_name": "Myint"
+	},
+	{
+		"country_code": "na",
+		"country_name": "Namibia",
+		"head_last_name": "Geingob"
+	},
+	{
+		"country_code": "nr",
+		"country_name": "Nauru",
+		"head_last_name": "Waqa"
+	},
+	{
+		"country_code": "np",
+		"country_name": "Nepal",
+		"head_last_name": "Oli"
+	},
+	{
+		"country_code": "nl",
+		"country_name": "Netherlands",
+		"head_last_name": "Rutte"
+	},
+	{
+		"country_code": "nc",
+		"country_name": "New Caledonia",
+		"head_last_name": ""
+	},
+	{
+		"country_code": "nz",
+		"country_name": "New Zealand",
+		"head_last_name": "Ardern"
+	},
+	{
+		"country_code": "ni",
+		"country_name": "Nicaragua",
+		"head_last_name": "Ortega"
+	},
+	{
+		"country_code": "ne",
+		"country_name": "Niger",
+		"head_last_name": "Issoufou"
+	},
+	{
+		"country_code": "ng",
+		"country_name": "Nigeria",
+		"head_last_name": "Buhari"
+	},
+	{
+		"country_code": "nu",
+		"country_name": "Niue",
+		"head_last_name": "Talagi"
+	},
+	{
+		"country_code": "nf",
+		"country_name": "Norfolk Island",
+		"head_last_name": "Cosgrove"
+	},
+	{
+		"country_code": "kp",
+		"country_name": "North Korea",
+		"head_last_name": "Jong-un"
+	},
+	{
+		"country_code": "no",
+		"country_name": "Norway",
+		"head_last_name": "Solberg"
+	},
+	{
+		"country_code": "om",
+		"country_name": "Oman",
+		"head_last_name": "Said"
+	},
+	{
+		"country_code": "pk",
+		"country_name": "Pakistan",
+		"head_last_name": "Khan"
+	},
+	{
+		"country_code": "pw",
+		"country_name": "Palau",
+		"head_last_name": "Remengesau"
+	},
+	{
+		"country_code": "ps",
+		"country_name": "Palestine",
+		"head_last_name": "Abbas"
+	},
+	{
+		"country_code": "pa",
+		"country_name": "Panama",
+		"head_last_name": "Varela"
+	},
+	{
+		"country_code": "pg",
+		"country_name": "Papua New Guinea",
+		"head_last_name": "O'Neill"
+	},
+	{
+		"country_code": "py",
+		"country_name": "Paraguay",
+		"head_last_name": "Benítez"
+	},
+	{
+		"country_code": "pe",
+		"country_name": "Peru",
+		"head_last_name": "Vizcarra"
+	},
+	{
+		"country_code": "ph",
+		"country_name": "Philippines",
+		"head_last_name": "Duterte"
+	},
+	{
+		"country_code": "pl",
+		"country_name": "Poland",
+		"head_last_name": "Morawiecki"
+	},
+	{
+		"country_code": "pt",
+		"country_name": "Portugal",
+		"head_last_name": "Costa"
+	},
+	{
+		"country_code": "pr",
+		"country_name": "Puerto Rico",
+		"head_last_name": ""
+	},
+	{
+		"country_code": "qa",
+		"country_name": "Qatar",
+		"head_last_name": "Thani"
+	},
+	{
+		"country_code": "cg",
+		"country_name": "Republic of the Congo",
+		"head_last_name": "Nguesso"
+	},
+	{
+		"country_code": "fr",
+		"country_name": "Réunion",
+		"head_last_name": "Macron"
+	},
+	{
+		"country_code": "ro",
+		"country_name": "Romania",
+		"head_last_name": "Iohannis"
+	},
+	{
+		"country_code": "ru",
+		"country_name": "Russia",
+		"head_last_name": "Putin"
+	},
+	{
+		"country_code": "rw",
+		"country_name": "Rwanda",
+		"head_last_name": "Kagame"
+	},
+	{
+		"country_code": "fr",
+		"country_name": "Saint Barthélemy",
+		"head_last_name": "Macron"
+	},
+	{
+		"country_code": "sh",
+		"country_name": "Saint Helena",
+		"head_last_name": "Honan"
+	},
+	{
+		"country_code": "kn",
+		"country_name": "Saint Kitts and Nevis",
+		"head_last_name": "Harris"
+	},
+	{
+		"country_code": "lc",
+		"country_name": "Saint Lucia",
+		"head_last_name": "Chastanet"
+	},
+	{
+		"country_code": "vc",
+		"country_name": "Saint Vincent and the Grenadines",
+		"head_last_name": "Gonsalves"
+	},
+	{
+		"country_code": "ws",
+		"country_name": "Samoa",
+		"head_last_name": "Malielegaoi"
+	},
+	{
+		"country_code": "sm",
+		"country_name": "San Marino",
+		"head_last_name": "Tomassoni"
+	},
+	{
+		"country_code": "st",
+		"country_name": "São Tomé and Príncipe",
+		"head_last_name": "Carvalho"
+	},
+	{
+		"country_code": "sa",
+		"country_name": "Saudi Arabia",
+		"head_last_name": "Salman"
+	},
+	{
+		"country_code": "sn",
+		"country_name": "Senegal",
+		"head_last_name": "Sall"
+	},
+	{
+		"country_code": "rs",
+		"country_name": "Serbia",
+		"head_last_name": "Brnabić"
+	},
+	{
+		"country_code": "sc",
+		"country_name": "Seychelles",
+		"head_last_name": "Faure"
+	},
+	{
+		"country_code": "sl",
+		"country_name": "Sierra Leone",
+		"head_last_name": "Bio"
+	},
+	{
+		"country_code": "sg",
+		"country_name": "Singapore",
+		"head_last_name": "Loong"
+	},
+	{
+		"country_code": "sk",
+		"country_name": "Slovakia",
+		"head_last_name": "Pellegrini"
+	},
+	{
+		"country_code": "si",
+		"country_name": "Slovenia",
+		"head_last_name": "Šarec"
+	},
+	{
+		"country_code": "sb",
+		"country_name": "Solomon Islands",
+		"head_last_name": "Houenipwela"
+	},
+	{
+		"country_code": "so",
+		"country_name": "Somalia",
+		"head_last_name": "Khayre"
+	},
+	{
+		"country_code": "so",
+		"country_name": "Somaliland",
+		"head_last_name": "Abdi"
+	},
+	{
+		"country_code": "za",
+		"country_name": "South Africa",
+		"head_last_name": "Ramaphosa"
+	},
+	{
+		"country_code": "kr",
+		"country_name": "South Korea",
+		"head_last_name": "Jae-in"
+	},
+	{
+		"country_code": "ss",
+		"country_name": "South Sudan",
+		"head_last_name": "Mayardit"
+	},
+	{
+		"country_code": "es",
+		"country_name": "Spain",
+		"head_last_name": "Sánchez"
+	},
+	{
+		"country_code": "lk",
+		"country_name": "Sri Lanka",
+		"head_last_name": "Sirisena"
+	},
+	{
+		"country_code": "sd",
+		"country_name": "Sudan",
+		"head_last_name": "al-Bashir"
+	},
+	{
+		"country_code": "sr",
+		"country_name": "Suriname",
+		"head_last_name": "Bouterse"
+	},
+	{
+		"country_code": "se",
+		"country_name": "Sweden",
+		"head_last_name": "Löfven"
+	},
+	{
+		"country_code": "ch",
+		"country_name": "Switzerland",
+		"head_last_name": "Berset"
+	},
+	{
+		"country_code": "sy",
+		"country_name": "Syria",
+		"head_last_name": "al-Assad"
+	},
+	{
+		"country_code": "tw",
+		"country_name": "Taiwan",
+		"head_last_name": "Ing-wen"
+	},
+	{
+		"country_code": "tj",
+		"country_name": "Tajikistan",
+		"head_last_name": "Rahmon"
+	},
+	{
+		"country_code": "tz",
+		"country_name": "Tanzania",
+		"head_last_name": "Magufuli"
+	},
+	{
+		"country_code": "th",
+		"country_name": "Thailand",
+		"head_last_name": "Chan-o-cha"
+	},
+	{
+		"country_code": "bs",
+		"country_name": "The Bahamas",
+		"head_last_name": "Pindling"
+	},
+	{
+		"country_code": "gm",
+		"country_name": "The Gambia",
+		"head_last_name": "Barrow"
+	},
+	{
+		"country_code": "tl",
+		"country_name": "Democratic Republic of Timor-Leste",
+		"head_last_name": "Guterres"
+	},
+	{
+		"country_code": "tg",
+		"country_name": "Togo",
+		"head_last_name": "Gnassingbé"
+	},
+	{
+		"country_code": "tk",
+		"country_name": "Tokelau",
+		"head_last_name": "Gaualofa"
+	},
+	{
+		"country_code": "to",
+		"country_name": "Tonga",
+		"head_last_name": "Pōhiva"
+	},
+	{
+		"country_code": "md",
+		"country_name": "Transnistria",
+		"head_last_name": "Krasnoselsky"
+	},
+	{
+		"country_code": "tt",
+		"country_name": "Trinidad and Tobago",
+		"head_last_name": "Rowley"
+	},
+	{
+		"country_code": "tn",
+		"country_name": "Tunisia",
+		"head_last_name": "Essebsi"
+	},
+	{
+		"country_code": "tr",
+		"country_name": "Turkey",
+		"head_last_name": "Erdoğan"
+	},
+	{
+		"country_code": "tm",
+		"country_name": "Turkmenistan",
+		"head_last_name": "Berdimuhamedow"
+	},
+	{
+		"country_code": "tc",
+		"country_name": "Turks and Caicos Islands",
+		"head_last_name": ""
+	},
+	{
+		"country_code": "tv",
+		"country_name": "Tuvalu",
+		"head_last_name": "Sopoaga"
+	},
+	{
+		"country_code": "ug",
+		"country_name": "Uganda",
+		"head_last_name": "Museveni"
+	},
+	{
+		"country_code": "ua",
+		"country_name": "Ukraine",
+		"head_last_name": "Poroshenko"
+	},
+	{
+		"country_code": "ae",
+		"country_name": "United Arab Emirates",
+		"head_last_name": "Nahyan"
+	},
+	{
+		"country_code": "uk",
+		"country_name": "United Kingdom",
+		"head_last_name": "May"
+	},
+	{
+		"country_code": "us",
+		"country_name": "United States",
+		"head_last_name": "Trump"
+	},
+	{
+		"country_code": "uy",
+		"country_name": "Uruguay",
+		"head_last_name": "Vázquez"
+	},
+	{
+		"country_code": "us",
+		"country_name": "US Virgin Islands",
+		"head_last_name": ""
+	},
+	{
+		"country_code": "uz",
+		"country_name": "Uzbekistan",
+		"head_last_name": "Mirziyoyev"
+	},
+	{
+		"country_code": "vu",
+		"country_name": "Vanuatu",
+		"head_last_name": "Salwai"
+	},
+	{
+		"country_code": "va",
+		"country_name": "Vatican City",
+		"head_last_name": "Francis"
+	},
+	{
+		"country_code": "ve",
+		"country_name": "Venezuela",
+		"head_last_name": "Maduro"
+	},
+	{
+		"country_code": "vn",
+		"country_name": "Vietnam",
+		"head_last_name": "Trọng"
+	},
+	{
+		"country_code": "fr",
+		"country_name": "Wallis and Futuna",
+		"head_last_name": "Treffel"
+	},
+	{
+		"country_code": "ye",
+		"country_name": "Yemen",
+		"head_last_name": "Hadi"
+	},
+	{
+		"country_code": "zm",
+		"country_name": "Zambia",
+		"head_last_name": "Lungu"
+	},
+	{
+		"country_code": "zw",
+		"country_name": "Zimbabwe",
+		"head_last_name": "Mnangagwa"
+	}
+]
