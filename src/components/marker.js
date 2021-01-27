@@ -13,7 +13,7 @@ class Marker extends Component {
 
     return (
       <div className={classes}>
-        €{this.props.text}
+        {this.props.rating}
       </div>
     );
   }

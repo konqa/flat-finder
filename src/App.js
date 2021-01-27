@@ -9,7 +9,9 @@ class App extends Component {
     super(props);
     this.state = {
       flats: [],
-      selectedFlat: null
+      allFlats: [],
+      selectedFlat: null,
+      search: ''
     };
   }
 
@@ -19,23 +21,31 @@ class App extends Component {
     .then(response => response.json())
     .then((data) => {
       this.setState({
-        flats: data
+        flats: data,
+        allFlats: data
       })
     })
   }
 
   selectFlat = (flat) => {
-    console.log(flat);
     this.setState({    
       selectedFlat: flat
+    })
+  }
+
+  handleSearch = (event) => {
+    // console.log(event.target.value);
+    this.setState({
+      search: event.target.value,
+      flats: this.state.allFlats.filter((flat) => new RegExp(event.target.value, "i").exec(flat.name))
     })
   }
 
   render() {
 
     let center = {
-      lat: 48.8566,
-      lng: 2.3522
+      lat: -46.410744,
+      lng: 168.3715803
     }
 
     if(this.state.selectedFlat){
@@ -49,7 +59,14 @@ class App extends Component {
       <div className="App">
         <div className="main">
 
-          <div className="search"></div>
+          <div className="search">
+            <input type="text"
+            placeholder="Search..."
+            value={this.state.search}
+            onChange={this.handleSearch}
+            />
+
+          </div>
 
           <div className="flats">
             {this.state.flats.map((flat) => {
@@ -68,13 +85,14 @@ class App extends Component {
             <GoogleMapReact
             // bootstrapURLKeys={{ key: /* YOUR KEY HERE */ }}
             center={center}
-            zoom={11}
+            zoom={14}
             >
             {this.state.flats.map((flat) => {
               return <Marker 
               key={flat.id} 
               lat={flat.lat} 
               lng={flat.lng} 
+              rating={flat.rating} 
               text={flat.price}
               selected={flat === this.state.selectedFlat}
               />

@@ -12,3 +12,7 @@
   background-color: yellow;
   border: black;
 }
+
+.marker:before {
+  /* content: '\00024'; */
+}
